@@ -3,6 +3,9 @@
 #### Repo
 java-oop-bank
 
+#### Package
+jana60.bank
+
 #### Todo
 Creare la classe `Conto`, caratterizzate come segue:
 
