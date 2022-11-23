@@ -1,5 +1,5 @@
-#### Repo
-abstract-animals
+## Repo
+`abstract-animals`
 
 ### ES 1
 
@@ -46,7 +46,7 @@ Definisce come *incasso annuale*: salary * monthlyCount
 ##### Boss
 Classe *concreta* che esetende la classe **Person**, aggiungendo i seguenti attributi:
 - salary : int
-- bonsu: int
+- bonus: int
 
 Definire:
 - costruttore
