@@ -16,7 +16,7 @@ Al termine dell’inserimento ordinare la lista e stampare a video la lista ordi
 ---
 
 ##### Parte 2
-1. Definire e applicare un `Comparator<String>` da applicare alla lista desideri che metta in ordine i desideri in funzione di quante volte vocali sono presenti nel desiderio (piu' vocali prima, meno vocali poi)
+1. Definire e applicare un `Comparator<String>` da applicare alla lista desideri che metta in ordine i desideri in funzione di quante vocali sono presenti nel desiderio (piu' vocali prima, meno vocali poi)
 
 *ATTENZIONE!* slegato dai regali di natale
 1. Richiede all'utente una stringa e stampare ogni singolo carattere senza ripetizioni (ordinamento irrilevante)
