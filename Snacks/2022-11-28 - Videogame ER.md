@@ -15,3 +15,5 @@ Periodicamente, vengono organizzati dei *tornei* a cui possono partecipare tutti
 I videogames possono essere recensiti dai videogiocatori, i quali oltre al titolo e al testo, possono *valutare* i videogame con un rating da 1 a 5.
 
 Ogni anno vengono votati i migliori videogiochi, che possono così vincere diversi *premi* (gioco dell'anno, miglior narrativa, miglior colonna sonora, miglior gioco indipendente, gioco più atteso, ...)
+
+![[Videogame.svg]]
