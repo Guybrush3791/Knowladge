@@ -11,12 +11,8 @@
             "id": "7cdd57710544e3d1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tips&Triks/2022-11-24 - Maven.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tips&Triks/2022-11-24 - Maven.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tips&Triks/2022-11-24 - Maven.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Tips&Triks/2022-11-24 - Maven.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -138,8 +130,8 @@
   },
   "active": "1e70021916d5e3ec",
   "lastOpenFiles": [
-    "__assets/Pasted image 20221130152336.png",
     "Tips&Triks/2022-11-24 - Maven.md",
+    "__assets/Pasted image 20221130152336.png",
     "Snacks/2022-11-29 - Videogiochi Query.md",
     "ER/Videogame.svg",
     "Lives/2022-11-28 - DB Areoporto.md",
