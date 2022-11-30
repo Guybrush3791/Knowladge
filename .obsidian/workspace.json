@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Snacks/2022-11-29 - Videogiochi Query.md",
-                "mode": "source",
+                "file": "Tips&Triks/2022-11-24 - Maven.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Snacks/2022-11-29 - Videogiochi Query.md",
+                "file": "Tips&Triks/2022-11-24 - Maven.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Snacks/2022-11-29 - Videogiochi Query.md",
+                "file": "Tips&Triks/2022-11-24 - Maven.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Snacks/2022-11-29 - Videogiochi Query.md"
+                "file": "Tips&Triks/2022-11-24 - Maven.md"
               }
             }
           }
@@ -136,10 +136,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "7cdd57710544e3d1",
+  "active": "1e70021916d5e3ec",
   "lastOpenFiles": [
-    "ER/Videogame.svg",
     "Snacks/2022-11-29 - Videogiochi Query.md",
+    "ER/Videogame.svg",
     "Lives/2022-11-28 - DB Areoporto.md",
     "Snacks/2022-11-23 - java-wish-list.md",
     "Snacks/2022-11-22 - java-azienda + abstract-animal.md",
