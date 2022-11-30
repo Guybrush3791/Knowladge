@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Tips&Triks/2022-11-24 - Maven.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -138,6 +138,8 @@
   },
   "active": "1e70021916d5e3ec",
   "lastOpenFiles": [
+    "__assets/Pasted image 20221130152336.png",
+    "Tips&Triks/2022-11-24 - Maven.md",
     "Snacks/2022-11-29 - Videogiochi Query.md",
     "ER/Videogame.svg",
     "Lives/2022-11-28 - DB Areoporto.md",
@@ -145,8 +147,6 @@
     "Snacks/2022-11-22 - java-azienda + abstract-animal.md",
     "Snacks/2022-11-21 -  java-biglietto-treno-oop.md",
     "Snacks/2022-11-18 - java-inheritance-shop.md",
-    "Snacks/2022-11-28 - Videogame ER.md",
-    "Snacks/2022-11-26 - Bonus Eventi.md",
-    "Dump/Videogiochi DB.md"
+    "Snacks/2022-11-28 - Videogame ER.md"
   ]
 }
