@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "dc3cfc1d7dd49c88",
+        "id": "7fe44fb517a3f36c",
         "type": "tabs",
         "children": [
           {
-            "id": "4bf4d70499d8ea86",
+            "id": "a7f3076e6f7f8a39",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tips&Triks/2022-12-01 - Intallare SpringBoot su Eclipse.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "92ccfc3a47f58157",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tips&Triks/2022-12-01 - Installare supporto HTML su Eclipse.md",
+                "file": "Snacks/2022-12-01 - best-of-the-year.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tips&Triks/2022-12-01 - Installare supporto HTML su Eclipse.md",
+                "file": "Snacks/2022-12-01 - best-of-the-year.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tips&Triks/2022-12-01 - Installare supporto HTML su Eclipse.md",
+                "file": "Snacks/2022-12-01 - best-of-the-year.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tips&Triks/2022-12-01 - Installare supporto HTML su Eclipse.md"
+                "file": "Snacks/2022-12-01 - best-of-the-year.md"
               }
             }
           }
@@ -149,17 +136,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "92ccfc3a47f58157",
+  "active": "a7f3076e6f7f8a39",
   "lastOpenFiles": [
+    "Snacks/2022-11-22 - java-azienda + abstract-animal.md",
+    "Snacks/2022-11-25 - Gestore Eventi.md",
+    "Snacks/2022-11-28 - Videogame ER.md",
+    "Snacks/2022-12-01 - best-of-the-year.md",
     "Tips&Triks/2022-12-01 - Intallare SpringBoot su Eclipse.md",
+    "Tips&Triks/2022-12-01 - Installare supporto HTML su Eclipse.md",
     "__assets/Pasted image 20221201112517.png",
     "Pasted image 20221201120233.png",
     "Pasted image 20221201114358.png",
-    "Untitled.md",
-    "Snacks/2022-11-30 - db-nations.md",
-    "Snacks/2022-11-29 - Videogiochi Query.md",
-    "Snacks/2022-11-26 - Bonus Eventi.md",
-    "Snacks/2022-11-25 - Gestore Eventi.md",
-    "Snacks/2022-11-24 - java-calculator-tester.md"
+    "Untitled.md"
   ]
 }
