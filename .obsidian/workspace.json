@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "bfd53f600ea861db",
+        "id": "dc3cfc1d7dd49c88",
         "type": "tabs",
         "children": [
           {
-            "id": "7cdd57710544e3d1",
+            "id": "4bf4d70499d8ea86",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Snacks/2022-11-30 - db-nations.md",
-                "mode": "preview",
+                "file": "Tips&Triks/2022-12-01 - Intallare SpringBoot su Eclipse.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "92ccfc3a47f58157",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tips&Triks/2022-12-01 - Installare supporto HTML su Eclipse.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Snacks/2022-11-30 - db-nations.md",
+                "file": "Tips&Triks/2022-12-01 - Installare supporto HTML su Eclipse.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Snacks/2022-11-30 - db-nations.md",
+                "file": "Tips&Triks/2022-12-01 - Installare supporto HTML su Eclipse.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Snacks/2022-11-30 - db-nations.md"
+                "file": "Tips&Triks/2022-12-01 - Installare supporto HTML su Eclipse.md"
               }
             }
           }
@@ -136,17 +149,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "7cdd57710544e3d1",
+  "active": "92ccfc3a47f58157",
   "lastOpenFiles": [
-    "Snacks/2022-11-21 -  java-biglietto-treno-oop.md",
-    "Snacks/2022-11-26 - Bonus Eventi.md",
+    "Tips&Triks/2022-12-01 - Intallare SpringBoot su Eclipse.md",
+    "__assets/Pasted image 20221201112517.png",
+    "Pasted image 20221201120233.png",
+    "Pasted image 20221201114358.png",
+    "Untitled.md",
     "Snacks/2022-11-30 - db-nations.md",
-    "Dump/20 - Java - DB_ Java e MySQL.pdf",
-    "Tips&Triks/2022-11-24 - Maven.md",
-    "__assets/Pasted image 20221130152336.png",
     "Snacks/2022-11-29 - Videogiochi Query.md",
-    "ER/Videogame.svg",
-    "Lives/2022-11-28 - DB Areoporto.md",
-    "Snacks/2022-11-23 - java-wish-list.md"
+    "Snacks/2022-11-26 - Bonus Eventi.md",
+    "Snacks/2022-11-25 - Gestore Eventi.md",
+    "Snacks/2022-11-24 - java-calculator-tester.md"
   ]
 }
