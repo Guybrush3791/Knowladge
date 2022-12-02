@@ -2,6 +2,8 @@
 **???**
 
 ### Todo
+
+#### Parte 1
 In progetto nuovo di tipo *Spring*, eseguire i seguenti task:
 1. Creare un totale di 3 pagine con relative rotte:
 	1. pagina con solo i link a `/best-song` e `/best-movie` con il presente layout
@@ -14,3 +16,11 @@ In progetto nuovo di tipo *Spring*, eseguire i seguenti task:
 
 **BONUS**
 4. Per stampare gli elementi di `Song` e `Movie` utilizzare dei *fragment*
+
+#### Parte 2
+1. Spostare la definizione dei dati *fake* del db in metodi *privati* e *statici*
+2. Generare una pagina dedicata alla visualizzazione di un singolo *film* con rotta del tipo `/best-movie/{id}` che stampera' solo i dettagli dell'emento selezionato dall'`id` nell'`url`
+3. Sostituire i testi nelle liste  con dei link che portano alla pagina del dettaglio dell'elemento
+
+**Bonus**
+1. Replicare la stessa logica anche per le canzoni (`Song`)
