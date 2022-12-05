@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Snacks/2022-12-01 - best-of-the-year.md",
-                "mode": "preview",
+                "file": "Snacks/2022-12-05 - spring-la-mia-pizzeria-crud.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -26,13 +26,24 @@
               "type": "markdown",
               "state": {
                 "file": "Snacks/2022-12-02 - spring-movie-and-song.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5a3c3cbad4be3a41",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Snacks/2022-12-05 - spring-la-mia-pizzeria-crud.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Snacks/2022-12-02 - spring-movie-and-song.md",
+                "file": "Snacks/2022-12-05 - spring-la-mia-pizzeria-crud.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Snacks/2022-12-02 - spring-movie-and-song.md",
+                "file": "Snacks/2022-12-05 - spring-la-mia-pizzeria-crud.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Snacks/2022-12-02 - spring-movie-and-song.md"
+                "file": "Snacks/2022-12-05 - spring-la-mia-pizzeria-crud.md"
               }
             }
           }
@@ -149,17 +160,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "eb9980d407d84b41",
+  "active": "a7f3076e6f7f8a39",
   "lastOpenFiles": [
-    "__assets/Pasted image 20221202120723.png",
-    "Snacks/2022-12-02 - spring-movie-and-song.md",
     "Snacks/2022-12-01 - best-of-the-year.md",
+    "Snacks/2022-12-05 - spring-la-mia-pizzeria-crud.md",
+    "Snacks/2022-12-02 - spring-movie-and-song.md",
+    "__assets/Pasted image 20221202120723.png",
     "Snacks/2022-11-22 - java-azienda + abstract-animal.md",
     "Snacks/2022-11-25 - Gestore Eventi.md",
     "Snacks/2022-11-28 - Videogame ER.md",
     "Tips&Triks/2022-12-01 - Intallare SpringBoot su Eclipse.md",
     "Tips&Triks/2022-12-01 - Installare supporto HTML su Eclipse.md",
-    "__assets/Pasted image 20221201112517.png",
-    "Pasted image 20221201120233.png"
+    "__assets/Pasted image 20221201112517.png"
   ]
 }
