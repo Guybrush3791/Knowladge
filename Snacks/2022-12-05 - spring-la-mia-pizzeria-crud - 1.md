@@ -19,6 +19,6 @@ Aggiungere poi un controller di nome *PizzaController* che implementi il metodo 
 
 Nel caso in cui l'elenco delle pizze sia vuoto mostrare un messaggio che indichi all’utente che non ci sono pizze presenti nella nostra applicazione al momento.
 
-Generare inoltre le rotte necessarie al completamento della *CRUD* (creazione, eliminazione e aggiornamento di una pizza).
+Generare inoltre le rotte necessarie al completamento della *CRUD* (*C*reazione, *E*liminazione e [*U*]aggiornamento di una pizza).
 
 Ove possibile sfruttare i *fragment* per il riutilizzo del codice `HTML`
