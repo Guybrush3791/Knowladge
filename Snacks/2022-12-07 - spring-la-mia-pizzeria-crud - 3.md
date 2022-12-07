@@ -48,5 +48,15 @@ Si veda snippet di codice allegato per la gestione della search e dei *parametri
 	</form>
 ```
 
+---
+
 #### Bonus
 Generare una rotta per la ricerca sia su `Drink` che su `Pizza` in un unica pagina (sempre a partire dal nome).
+
+---
+
+#### SUPER-BONUS
+1. Generalizzare tramite interfaccia di nome `PriceableInt` il concetto di *prezzo* del prodotto (pizza o drink)
+2. Generare una lista di `PriceableInt` contenente tutti i drink e tutte le pizze all'interno di un controller
+3. Ordinare la lista per prezzo
+4. Stampare quella lista in una pagina *HTML*
