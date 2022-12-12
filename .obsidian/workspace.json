@@ -8,30 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a7f3076e6f7f8a39",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Snacks/2022-12-06 - spring-la-mia-pizzeria-crud - 2.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "63672e0f3d73cbd9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Snacks/2022-12-07 - spring-la-mia-pizzeria-crud - 3.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "5a56b3f5694acd50",
             "type": "leaf",
             "state": {
@@ -42,45 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "96f2e124db1e3577",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Snacks/2022-12-05 - spring-la-mia-pizzeria-crud - 1.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "eb9980d407d84b41",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Snacks/2022-12-02 - spring-movie-and-song.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5a3c3cbad4be3a41",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Snacks/2022-12-05 - spring-la-mia-pizzeria-crud - 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -197,7 +136,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "5a56b3f5694acd50",
+  "active": "1e70021916d5e3ec",
   "lastOpenFiles": [
     "Snacks/2022-12-06 - spring-la-mia-pizzeria-crud - 2.md",
     "Snacks/2022-12-07 - spring-la-mia-pizzeria-crud - 3.md",
