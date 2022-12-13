@@ -21,7 +21,7 @@ Attenzione ai nuovi metodi dei `Service`, che dovranno gestire se/quando la rela
 
 ---
 
-### **BONUS**
+#### PARTE 2
 Creare il front-end per la index delle due relazioni, aggiungere un collegamento al form per creare nuovi elementi come nell'esercizio della settimana precedente (solo `Create`), aggiungendo il concetto di relazione tra `Pizza` e `Promozione` attraverso i componenti del `form` visti durante la live: 
 
 ##### HTML
@@ -76,7 +76,7 @@ Creare il front-end per la index delle due relazioni, aggiungere un collegamento
 	</form>
 ```
 
-**
+
 ##### JAVA
 **OneToMany**
 ```java
