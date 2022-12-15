@@ -9,6 +9,14 @@
 #### Parte 1: ecosistema db
 Come primo esercizio, replicare un semplice `Hello World - Security` implementando il minimo indispensabile per testare la login su rotte protette con diversi ruoli per gli utenti (come visto a lezione).
 
+Come prima cosa aggiungere la *dipendenza* nel `pom`:
+```xml 
+		<dependency>
+		    <groupId>org.springframework.boot</groupId>
+		    <artifactId>spring-boot-starter-security</artifactId>
+		</dependency>
+```
+
 Sara' necessario creare l'ecosistema minimo indispensabile per salvare le tabelle `User` e `Role` all'interno del db (*pojo* + *repo* + *service*) con relazione *Molti a Molti* da `User` a `Role`:
 
 ##### User
