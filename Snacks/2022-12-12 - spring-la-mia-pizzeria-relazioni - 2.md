@@ -13,5 +13,5 @@ Testare la nuova entita' nel `run()` e poi aggiungere una relazione di tipo **Ma
 
 Aggiungere inoltre un controller dedicato alla nuova entita' `IngredienteController` che sara' in grado di mostrare attraverso le pagine `HTML` la lista di ingredienti con le relative pizze associate. Dovra' inoltre essere fornita all'utente la possibilita' di inserire nuovi ingredienti associati alle pizze e di creare nuove pizze associando gli ingredienti.
 
-#### **Bonus**
+#### Parte2
 Fornire la possibilita' di eliminare entita', e modificare le entita' presenti (sia `Ingrediente` che `Pizza`) valorizzando correttamente sia in lettura che in scrittura le relazioni.
