@@ -186,3 +186,22 @@ Introdurre il concetto di login all'interno del progetto pizza, in particolare c
 		userServ.save(userAdminUser);
 	}
 ```
+
+#### Bonus:
+E' possibile introdurre `thymeleaf.extras` nelle dipendenze per poter accedere alle informazioni dell'utente attraverso il *thymeleaf*:
+```xml
+<dependency>
+	<groupId>org.thymeleaf.extras</groupId>
+	<artifactId>thymeleaf-extras-springsecurity6</artifactId>
+</dependency>
+```
+
+Per attivarne il funzionamento sara' inoltre necessario introdurre un nuovo `Bean` all'interno del file di `SecurityConf`:
+```java
+@Bean
+public SpringSecurityDialect securityDialect() {
+	return new SpringSecurityDialect();
+}
+```
+
+Per l'utilizzo nell'`HTML` utilizzare la sintassi reperibile a [questo link](https://www.thymeleaf.org/doc/articles/springsecurity.html) 
