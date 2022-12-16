@@ -4,29 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "7fe44fb517a3f36c",
+        "id": "6da6d27df4615964",
         "type": "tabs",
         "children": [
           {
-            "id": "5a56b3f5694acd50",
+            "id": "784ebd14ba6392ca",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Snacks/2022-12-12 - spring-la-mia-pizzeria-relazioni - 2.md",
-                "mode": "preview",
+                "file": "Snacks/2022-12-15 - spring-la-mia-pizzeria-webapi.md",
+                "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "9e10e5e938acf57d",
+            "id": "80694767cf86429c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Snacks/2022-12-15 - spring-la-mia-pizzeria-security.md",
-                "mode": "source",
+                "file": "Snacks/2022-12-15 - spring-la-mia-pizzeria-webapi.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Snacks/2022-12-15 - spring-la-mia-pizzeria-security.md",
+                "file": "Snacks/2022-12-15 - spring-la-mia-pizzeria-webapi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Snacks/2022-12-15 - spring-la-mia-pizzeria-security.md",
+                "file": "Snacks/2022-12-15 - spring-la-mia-pizzeria-webapi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Snacks/2022-12-15 - spring-la-mia-pizzeria-security.md"
+                "file": "Snacks/2022-12-15 - spring-la-mia-pizzeria-webapi.md"
               }
             }
           }
@@ -149,17 +149,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "1e70021916d5e3ec",
+  "active": "80694767cf86429c",
   "lastOpenFiles": [
+    "Snacks/2022-12-15 - spring-la-mia-pizzeria-api.md",
+    "Snacks/2022-12-15 - spring-la-mia-pizzeria-webapi.md",
     "Snacks/2022-12-12 - spring-la-mia-pizzeria-relazioni - 2.md",
-    "Snacks/2022-12-15 - spring-la-mia-pizzeria-security.md",
     "Snacks/2022-12-12 - spring-la-mia-pizzeria-relazioni - 1.md",
     "Snacks/2022-12-07 - spring-la-mia-pizzeria-crud - 3.md",
     "Snacks/2022-12-06 - spring-la-mia-pizzeria-crud - 2.md",
     "Snacks/2022-12-05 - spring-la-mia-pizzeria-crud - 1.md",
     "Snacks/2022-12-01 - best-of-the-year.md",
     "Snacks/2022-11-30 - db-nations.md",
-    "Snacks/2022-12-02 - spring-movie-and-song.md",
-    "__assets/Pasted image 20221202120723.png"
+    "Snacks/2022-12-02 - spring-movie-and-song.md"
   ]
 }
