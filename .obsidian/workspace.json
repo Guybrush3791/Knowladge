@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6ff5bcebbffbc1a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Snacks/2022-12-20 - spring-il-mio-fotoalbum.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Snacks/2022-12-19 - spring-la-mia-pizzeria-webapi.md",
+                "file": "Snacks/2022-12-20 - spring-il-mio-fotoalbum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Snacks/2022-12-19 - spring-la-mia-pizzeria-webapi.md",
+                "file": "Snacks/2022-12-20 - spring-il-mio-fotoalbum.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Snacks/2022-12-19 - spring-la-mia-pizzeria-webapi.md"
+                "file": "Snacks/2022-12-20 - spring-il-mio-fotoalbum.md"
               }
             }
           }
@@ -161,8 +173,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "23e656414ceb88cf",
+  "active": "6ff5bcebbffbc1a7",
   "lastOpenFiles": [
+    "Snacks/2022-12-19 - spring-la-mia-pizzeria-webapi.md",
     "Snacks/2022-12-15 - spring-la-mia-pizzeria-webapi.md",
     "Snacks/2022-12-15 - spring-la-mia-pizzeria-api.md",
     "Snacks/2022-12-12 - spring-la-mia-pizzeria-relazioni - 2.md",
@@ -171,7 +184,6 @@
     "Snacks/2022-12-06 - spring-la-mia-pizzeria-crud - 2.md",
     "Snacks/2022-12-05 - spring-la-mia-pizzeria-crud - 1.md",
     "Snacks/2022-12-01 - best-of-the-year.md",
-    "Snacks/2022-11-30 - db-nations.md",
-    "Snacks/2022-12-02 - spring-movie-and-song.md"
+    "Snacks/2022-11-30 - db-nations.md"
   ]
 }
